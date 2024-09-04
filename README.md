@@ -23,11 +23,11 @@ This Contact Manager is a Python-based application that allows users to manage t
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/contact-manager.git
+   git clone https://github.com/castrosuellenx/python_lista_de_contatos.git
    ```
 2. Navigate to the project directory:
    ```
-   cd contact-manager
+   cd python_lista_de_contatos
    ```
 3. Ensure you have Python 3.x installed on your system.
 
